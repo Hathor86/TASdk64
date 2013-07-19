@@ -1,0 +1,6 @@
+Kong|coins
+Donkey|0
+Diddy|8
+Lanky|3
+Tiny|3
+Chunky|15
