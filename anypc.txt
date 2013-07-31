@@ -1,8 +1,0 @@
-Kong|coins
-Donkey|0
-Diddy|8
-Lanky|3
-Tiny|3
-Chunky|15
-
-Training escape: Last dialog skip (B is the last input)
