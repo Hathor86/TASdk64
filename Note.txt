@@ -1,0 +1,4 @@
+* To1stCranky 		-> No more stars around "Cranky's Lab" text
+* Inside1stCranky 	-> Dialog cancel
+* ToTrainingBarrels	-> Swim Dialog cancel
+* SwimBarrel		-> Grenade Dialog cancel
