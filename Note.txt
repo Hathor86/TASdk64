@@ -2,3 +2,5 @@
 * Inside1stCranky 	-> Dialog cancel
 * ToTrainingBarrels	-> Swim Dialog cancel
 * SwimBarrel		-> Grenade Dialog cancel
+
+TODO: Correct main.bkm
