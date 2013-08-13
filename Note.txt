@@ -1,6 +1,63 @@
-* To1stCranky 		-> No more stars around "Cranky's Lab" text
-* Inside1stCranky 	-> Dialog cancel
-* ToTrainingBarrels	-> Swim Dialog cancel
-* SwimBarrel		-> Grenade Dialog cancel
+==Route==
 
-TODO: Correct main.bkm
+===Traingin area===
+* Cranky
+* Training Barrel
+* Escape training area with STVW
+
+===DK isles===
+* Fairy island early (Get shock wave)
+* Jungle jape early
+
+===Jungle jape===
+* Open grid
+* Takes 3 Donkey coins
+* Diddy cutscene skip (using TP)
+* Enable switch
+* Funky (buy Coconut gun)
+* Switch 1
+* Middle switch
+* Last switch
+* Rainbow coin
+* Quit jungle
+
+===Dk isles===
+* Tag Diddy
+* enable switch 1,2
+* Moontail to climb
+* Rainbow coin
+* Aztec early
+
+===Aztec===
+
+==Coins required==
+{|
+!Kong
+!Object
+!Cost
+|-
+|Donkey
+|Coconut gun
+|3
+|-
+| 
+| 
+|'''Total: 3'''
+|-
+|Diddy
+|Gun
+|3
+|-
+| 
+|Chimpy charge
+|3
+|-
+| 
+|Rocket barrel
+|5
+|-
+| 
+| 
+|'''Total: 11'''
+|-
+|}
