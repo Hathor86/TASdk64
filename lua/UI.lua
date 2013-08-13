@@ -2,7 +2,7 @@ local Addr = {}
 
 local grenade = 0
 
-Addr["grenade"] = 0x4A61F0
+Addr["grenade"] = 0x7FCC46
 
 function UI()
 	

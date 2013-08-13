@@ -1,3 +1,7 @@
+==Tricks==
+
+* Barrel jump: Press A At the first frame available just before screen fade out from black; safe about 90 frames
+
 ==Route==
 
 ===Traingin area===
